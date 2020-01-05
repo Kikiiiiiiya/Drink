@@ -1,9 +1,9 @@
 {
-  "name": "drink",
+  "name": "eat",
   "version": "1.0.0",
   "mpvueTemplateProjectVersion": "0.1.0",
   "description": "A Mpvue project",
-  "author": "songziyi",
+  "author": "wudi <ustcwudi@126.com>",
   "private": true,
   "scripts": {
     "dev:wx": "node build/dev-server.js wx",
